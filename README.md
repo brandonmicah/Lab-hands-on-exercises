@@ -1,2 +1,2 @@
-# Unit_2_Lab_HTML_Basics
+# Unit_2_Lab
 The hands on exercise for the lab in unit 2.
