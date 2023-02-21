@@ -1,0 +1,37 @@
+nav {
+    background: rgba(0, 0, 0, 0.8);
+    color: #f5f5f7;
+    height: 50px;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 10%;
+
+}
+
+h1 {
+    text-align: left;
+    
+    display: inline;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+
+#subtitle {
+    color: #6e6e73;
+    font-weight: 600;
+    font-size: 48px;
+    display: inline;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+img {
+    width: 100px;
+}
