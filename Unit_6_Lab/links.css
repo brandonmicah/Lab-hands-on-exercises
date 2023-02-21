@@ -1,0 +1,19 @@
+html {
+    background-color: beige;
+}
+
+ul {
+    list-style: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
